@@ -4,14 +4,14 @@
 
 </div>
 
-## :star2: Nomenclature
+## Nomenclature
 
-<table class="demo">
+<table class="GD">
 	<caption>Tableau 1</caption>
 	<thead>
 	<tr>
-		<th>En-tête 1</th>
-		<th>En-tête 2</th>
+		<th>TYPE</th>
+		<th>NOMENCLATURE</th>
 	</tr>
 	</thead>
 	<tbody>
