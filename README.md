@@ -7,7 +7,7 @@
 ## Nomenclature
 
 <table class="GD">
-	<caption>Tableau 1</caption>
+	<caption>GD</caption>
 	<thead>
 	<tr>
 		<th>TYPE</th>
