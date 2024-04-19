@@ -4,6 +4,10 @@
 
 </div>
 
+<p>
+
+</p>
+
 ## Nomenclature
 
 <table class="GD">
@@ -39,13 +43,6 @@
 		<td>&nbsp;Input map context</td>
 		<td>&nbsp;IMC</td>
 	</tr>
-	<tr>
-		<td>&nbsp;</td>
-		<td>&nbsp;</td>
-	</tr>
-	<tr>
-		<td>&nbsp;</td>
-		<td>&nbsp;</td>
-	</tr>
+
 	<tbody>
 </table>
